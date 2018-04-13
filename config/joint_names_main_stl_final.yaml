@@ -1,0 +1,1 @@
+controller_joint_names: ['raz', 'rax', 'rkx', 'rhx', 'rhy', 'rhz', 'ab_x', 'ab_z', 'spine', 'bust_x', 'bust_z', 'r_shx', 'r_shz', 'r_shy', 'r_elb', 'l_shx', 'l_shz', 'l_shy', 'l_elb', 'lhz', 'lhy', 'lhx', 'lkx', 'lax', 'laz', ]
