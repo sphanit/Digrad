@@ -46,7 +46,7 @@ classdef model_new < handle
             %rng(1);
             
             %Initializations of the global variables and importing data
-            self.robot = importrobot('./robot/urdf/main_stl_final.urdf');
+            self.robot = importrobot('./urdf/main_stl_final.urdf');
             self.robot.DataFormat = 'row';
             self.robot.Gravity = [-9.81 0 0];
             
